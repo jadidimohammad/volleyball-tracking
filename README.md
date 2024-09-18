@@ -1,7 +1,7 @@
 # volleyball tracking
 | Model | Precision | Recall |
 | ----------- | ----------- | -
-| YOLOv8n | 92.9 | 82.9
+| YOLOv8s | 93.8 | 86.2
 
 ## volleyball tracking
 dataset: Volleyvision  
