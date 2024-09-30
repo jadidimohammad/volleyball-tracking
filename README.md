@@ -14,7 +14,7 @@ dataset: Volleyvision
 train set: ~17000 images
 
 ## requirement
-- ultralytics
+- ultralytics>=8.3
 - numpy
 - torch
 - collections
