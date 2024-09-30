@@ -1,4 +1,10 @@
 # volleyball tracking
+All models were trained on 2 * T4
+
+| Model | Precision | Recall |
+| ----------- | ----------- | -
+| YOLOv11n | 92.8 | 80.4
+
 | Model | Precision | Recall |
 | ----------- | ----------- | -
 | YOLOv8s | 93.8 | 86.2
