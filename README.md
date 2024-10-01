@@ -3,6 +3,7 @@ All models were trained on 2 * T4
 
 | Model | Precision | Recall |
 | ----------- | ----------- | -
+| YOLOv10n | 93.3 | 78.9
 | YOLOv11n | 92.8 | 80.4
 
 | Model | Precision | Recall |
