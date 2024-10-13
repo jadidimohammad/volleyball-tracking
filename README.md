@@ -14,6 +14,10 @@ All models were trained on 2 * T4
 | YOLOv10s | 93.1 | 84.1
 | YOLOv11s | 93 | 85.2
 
+| Model | Precision | Recall |
+| ----------- | ----------- | -
+| YOLOv11m | 94.5 | 87.2
+
 ### argument
 Epoch=100  
 batch=16  
