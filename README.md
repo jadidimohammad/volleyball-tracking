@@ -18,8 +18,8 @@ All models were trained on 2 * T4
 
 | Model | Precision | Recall |
 | ----------- | ----------- | -
-| YOLOv8m | 93.7 | **87.4**
-| YOLOv11m | **94.5** | 87.2
+| [YOLOv8m](https://mega.nz/file/wiFzXZKR#D-xDYEzQur58hdaqn5OzE3b4gY9dSv6UmAyV8YhGcPo) | 93.7 | **87.4**
+| [YOLOv11m](https://mega.nz/file/tn0xDJRb#R98AHkamTlCNqhXYAzS3BOS9BlAkLwQTDbv7mhpUH_k) | **94.5** | 87.2
 
 ### argument
 Epoch=100  
