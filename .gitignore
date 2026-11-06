@@ -1,0 +1,8 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Local input and output videos
+input_volleyball.mp4
+volleyball_output.mp4
+volleyball_sample.mp4

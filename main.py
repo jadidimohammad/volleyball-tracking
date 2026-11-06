@@ -10,10 +10,10 @@ def nearest(res,init):
     center = np.stack((mean_c13, mean_c24), axis=1).astype('int')
     distances = np.linalg.norm(center - init, axis=1).astype('int')
     return center[np.argmin(distances)],min(distances),np.argmin(distances)
-model = YOLO("best.pt") # model name
+model = YOLO("yolov8n.pt") # model name
 
-cap = cv2.VideoCapture("Volleyball/MVI_2113.MP4") # file name
-writer = create_video_writer(cap, "Output6.mp4")  # output file name
+cap = cv2.VideoCapture("input_volleyball.mp4") # file name
+writer = create_video_writer(cap, "volleyball_output.mp4")  # output file name
 dq = deque(maxlen=10)
 z=0
 while True:
